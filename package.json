@@ -1,0 +1,27 @@
+{
+  "name": "bos-altyapi",
+  "version": "1.0.0",
+  "description": "Utiric Boş Altyapı",
+  "main": "shard.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "Utiric Code",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/opus": "^0.9.0",
+    "@discordjs/rest": "^1.7.1",
+    "@discordjs/voice": "^0.16.0",
+    "@distube/deezer": "^1.0.0",
+    "@distube/soundcloud": "^1.3.3",
+    "@distube/spotify": "^1.5.1",
+    "discord-player": "^6.6.2",
+    "discord.js": "^14.11.0",
+    "distube": "^4.0.6",
+    "dotenv": "^16.3.1",
+    "fs": "^0.0.1-security",
+    "opus": "^0.0.0",
+    "path": "^0.12.7",
+    "terminal.xr": "^1.2.3"
+  }
+}
